@@ -1,4 +1,4 @@
-nom = input("quel est votre nom?")
+nom = input("quel est votre nom ?")
 print("Bonjour",nom)
 x=int(input("entrez un caractere:"))
 y = float(input("entrez un nombre"))
