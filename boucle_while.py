@@ -17,6 +17,9 @@ while pv > 0:
     tour += 1
     print(f"tour {tour} : PV = {pv} \n")
     if pv < 20:
-        print("Attention santé critique ! pv = {pv}\n")
+        print(f"Attention santé critique ! PV = {pv} \n")
 
 print(f"la personne est morte avec PV = {pv}")
+
+
+print("-----------------------------------------------------")
