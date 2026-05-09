@@ -7,4 +7,4 @@ elif n == "e" or n == "E":
 elif n == "i" or n == "I":
     print(f"vous avez la lettre {n} .")
 else :
-    print(f"vous avez unr lettre hors jeu .")
+    print(f"vous avez une lettre hors jeu .")
